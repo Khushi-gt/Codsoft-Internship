@@ -1,7 +1,7 @@
 #COMMAND LINE APPLICATION OF CALCULATOR
 
 #Author : Khushi Gupta
-#for    : Codsoft (TASK-2)
+#for    : Codsoft Internship (TASK-2)
 
 # Discription :
 # this command appplication is for performing the arthmetic operations
