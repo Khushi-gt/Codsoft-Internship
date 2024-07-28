@@ -1,7 +1,7 @@
 #COMMAND LINE APPLICATION OF TO DO LIST
 
 #Author : Khushi Gupta
-#for    : Codsoft (TASK-1)
+#for    : Codsoft Internship (TASK-1)
 
 # Discription :
 # this command appplication is for tracking your tasks
